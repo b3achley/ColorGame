@@ -1,1 +1,4 @@
 # ColorGame
+---
+permalink: /index.html
+---
